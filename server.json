@@ -1,20 +1,28 @@
 {
   "foods": [
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "image": "https://www.google.com/search?q=mcdonald%27s&client=opera&sxsrf=ALiCzsZy6Q8t8qVOoGLPl4mHTQ5be6C3kw:1654877292671&tbm=isch&source=iu&ictx=1&vet=1&fir=sfMpl61F_O_IzM%252CjXp-ntzBLWEDRM%252C%252Fm%252F07gyp7&usg=AI4_-kRU9iRNgVofgxVkbhbkQfNXLJ3AOg&sa=X&ved=2ahUKEwirlrSpoqP4AhUXsJUCHQ0jDVIQ_B16BAhhEAI#imgrc=sfMpl61F_O_IzM",
+      "name": "Moda americana",
+      "price": "199,90",
+      "description": "wefwqeerw",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 1
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "wqerwqqqqqq",
+      "name": "ewq",
+      "price": "ewqqqqqqqqqq",
+      "description": "rwqeeeeeeeeee",
+      "available": true,
+      "id": 2
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "description": "",
+      "available": true,
+      "id": 3
     }
   ]
 }
