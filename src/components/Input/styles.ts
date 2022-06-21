@@ -1,4 +1,10 @@
 import styled, { css } from 'styled-components';
+import { boolean } from 'yup';
+
+interface Iinput2{
+  isFocused: boolean;
+  isFilled: boolean
+}
 
 export const Container = styled.div`
   display: flex;
@@ -21,14 +27,14 @@ export const Container = styled.div`
     line-height: 36px;
   }
 
-  ${props =>
+  ${(props: Iinput2) =>
     props.isFocused &&
     css`
       color: #ff9000;
       border-color: #ff9000;
     `}
 
-  ${props =>
+  ${(props: Iinput2) =>
     props.isFilled &&
     css`
       color: #ff9000;
